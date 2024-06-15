@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=BjjPlayer)
-# BJJ X Smart IT.
+# BJJ X Smart IT. <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsbae0514%2Fmsbae.bjj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%8A%A4%EB%A7%88%ED%8A%B8IT%ED%95%99%EB%B6%80%EC%97%90%EC%84%9C+%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B4%EC%84%9C...;%EC%A3%BC%EC%A7%93%EC%88%98+12%EB%85%84%EC%B0%A8+%ED%8D%BC%ED%94%8C%EB%B2%A8%ED%8A%B8+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
   ## <h1>환영합니다..😀SmartIT Linux 실습과정입니다... <h1>
+  
 <p>
 </p>
 <br />
