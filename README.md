@@ -27,5 +27,9 @@
 ## 2022 서울 서초구회장배 Blue Belt Adult - 64kg 2위(준우승)🥈
 ## 2023 코리아 주짓수 챔피언쉽 Puple Belt - 64kg 2위(준우승)🥈
 </h2>
-  
-  
+
+# My Hobby⭐
+## Listening to Music(Hip Hop)🎧
+## Watching Movies🎥
+## Weight🏋️‍♂️
+## ALL Grappling🤼
